@@ -2,10 +2,11 @@
 
 Bu depo, TeamSpeak 6 sunucusunda kullanılan banner, logo ve simge varlıklarını barındırır.
 
-## 🎯 Aktif Sunucu Bannerı (Canlı - PRO Titanyum)
-**URL:** https://raw.githubusercontent.com/avcihub/teamspeak-assets/main/we_are_one_banner.jpg
+## 🎯 Aktif Sunucu Bannerı (Canlı - PRO Titanyum SixDedi)
+**URL:** https://raw.githubusercontent.com/avcihub/teamspeak-assets/main/we_are_one_pro_banner_sixdedi.jpg  
+*(Alternatif URL: https://raw.githubusercontent.com/avcihub/teamspeak-assets/main/we_are_one_banner.jpg)*
 
-![WE ARE ONE PRO Banner](https://raw.githubusercontent.com/avcihub/teamspeak-assets/main/we_are_one_banner.jpg)
+![WE ARE ONE PRO SixDedi Banner](https://raw.githubusercontent.com/avcihub/teamspeak-assets/main/we_are_one_pro_banner_sixdedi.jpg)
 
 ---
 
@@ -20,7 +21,8 @@ Bu depo, TeamSpeak 6 sunucusunda kullanılan banner, logo ve simge varlıkların
 
 | Varlık | Tür | Bağlantı | Açıklama |
 |---|---|---|---|
-| **PRO 3D Titanium Banner (Canlı)** | 16:9 Banner | [we_are_one_banner.jpg](https://raw.githubusercontent.com/avcihub/teamspeak-assets/main/we_are_one_banner.jpg) | Karus Priest, Chitin Shield, CS, Dota ve 3D Titanyum Tipografi |
+| **PRO 3D Titanium Banner (SixDedi - Canlı)** | 16:9 Banner | [we_are_one_pro_banner_sixdedi.jpg](https://raw.githubusercontent.com/avcihub/teamspeak-assets/main/we_are_one_pro_banner_sixdedi.jpg) | Karus Priest, Chitin Shield, CS, Dota, 3D Titanyum Tipografi ve SIXDEDI |
+| **PRO 3D Titanium Banner (SİXDEDİ - Türkçe)** | 16:9 Banner | [we_are_one_pro_banner_sixdedi_tr.jpg](https://raw.githubusercontent.com/avcihub/teamspeak-assets/main/alternatives/we_are_one_pro_banner_sixdedi_tr.jpg) | Türkçe karakterli SİXDEDİ versiyonu |
 | **All-Stars Banner** | 16:9 Banner | [we_are_one_allstars_banner.jpg](https://raw.githubusercontent.com/avcihub/teamspeak-assets/main/we_are_one_allstars_banner.jpg) | KO Karus Priest + CoD Ghost + Battlefield + CS2 SAS + Dota 2 |
 | **Işıltılı Altın W (Canlı Rozet)** | 1:1 Rozet / İkon | [we_are_one_logo_w_gold.jpg](https://raw.githubusercontent.com/avcihub/teamspeak-assets/main/we_are_one_logo_w_gold.jpg) | Mikro boyutlarda (16x16, 24x24) koyu temada fener gibi parlayan 24K saf altın ve beyaz çekirdekli dev W |
 | **Lazer Camgöbeği W** | 1:1 Rozet / İkon | [we_are_one_logo_w_cyan.jpg](https://raw.githubusercontent.com/avcihub/teamspeak-assets/main/we_are_one_logo_w_cyan.jpg) | Elektrik turkuaz/camgöbeği neon ışıltılı yüksek kontrastlı W |
